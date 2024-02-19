@@ -26,7 +26,7 @@ h3 {
   display: flex;
   flex-direction: column;
   min-width: auto;
-  background-color: #090909e1;
+  background-color: #131722;
   padding: 15px;
   border-radius: 10px;
   color: rgb(246, 238, 238);
@@ -162,7 +162,7 @@ h3 {
   background-color: tomato;
 }
 .Tamil-unknown {
-  background-color: rgb(234, 227, 7);
+  /* background-color: rgb(234, 227, 7); */
   width: 0%;
   height: 5px;
 }
